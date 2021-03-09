@@ -2,7 +2,7 @@
     "DEFAULTS": {
         "AUTHORS": ["YETKILI ID"],
         "ACTIVITY_TEXT": "ACIKLAMA",
-        "GUILD_ID": "SUNUCU ID",
+        "GUILD_ID": "816280763615150091",
         "VOICE_CHANNEL": "KANAL ID",
         "MIN_STAFF_ROLE": "YETKILI ROL ID"
     },
@@ -10,5 +10,5 @@
         "WELCOME": "ses/hosgeldin.mp3",
         "STAFF": "ses/yetkili.mp3"
     },
-    "TOKEN": "TOKEN"
+    "TOKEN": ""
 } 
