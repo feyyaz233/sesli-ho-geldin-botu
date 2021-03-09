@@ -1,14 +1,14 @@
 {
-    "DEFAULTS": {
-        "AUTHORS": ["YETKILI ID"],
-        "ACTIVITY_TEXT": "ACIKLAMA",
-        "GUILD_ID": "816280763615150091",
-        "VOICE_CHANNEL": "KANAL ID",
-        "MIN_STAFF_ROLE": "YETKILI ROL ID"
-    },
-    "FILES": {
-        "WELCOME": "ses/hosgeldin.mp3",
-        "STAFF": "ses/yetkili.mp3"
-    },
-    "TOKEN": ""
-} 
+  "DEFAULTS": {
+    "AUTHORS": ["655719324157214720"],
+    "ACTIVITY_TEXT": "Welocome To Electus",
+    "GUILD_ID": "816280763615150091",
+    "VOICE_CHANNEL": "818947572504068156",
+    "MIN_STAFF_ROLE": "817334663529627659"
+  },
+  "FILES": {
+    "WELCOME": "ses/hosgeldin.mp3",
+    "STAFF": "ses/yetkili.mp3"
+  },
+  "TOKEN": ""
+}
