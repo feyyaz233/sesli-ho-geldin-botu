@@ -1,3 +1,8 @@
-# Get Started!
+# Loz 'Bey Sesli Hoşgeldin Altyapısı
 
-Add files and start typing 🎉
+Çalınması Serbesttir.
+Hak Mak Yoktur.
+
+Doya Doya Kullanınız...
+
+![alt text](https://i.hizliresim.com/MuxgnU.png)
