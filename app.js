@@ -72,7 +72,7 @@ Voice.on("voiceStateUpdate", async(oldState, newState) => {
     }
 });
 
-Voice.login("OODIxNDkzNDYwMTI5Mjg0MTI2.YFEhZw.MaJL297ZifuEzObTz7BKxxqckTg").catch(err => {//token
+Voice.login("ODIxNDkzNDYwMTI5Mjg0MTI2.YFEhZw.QUdFPCHGQWgmTk7zp-MJIzB2gDk").catch(err => {//token
     Voice.error("Ses istemcisine bağlanırken bir hata oluştu: " + err.message);
     return Voice.destroy();
 });
