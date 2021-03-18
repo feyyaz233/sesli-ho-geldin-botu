@@ -15,7 +15,7 @@ Voice.channelID = null;
 Voice.on("ready", async() => {
 
     Voice.user.setPresence({
-        status: "dnd",
+        status: "online",
         activity: {
             name: lozayar.DEFAULTS.ACTIVITY_TEXT
         }
@@ -72,7 +72,7 @@ Voice.on("voiceStateUpdate", async(oldState, newState) => {
     }
 });
 
-Voice.login("ODIxNDkzNDYwMTI5Mjg0MTI2.YFEhZw.QUdFPCHGQWgmTk7zp-MJIzB2gDk").catch(err => {//token
+Voice.login(process.env.token).catch(err => {//token
     Voice.error("Ses istemcisine bağlanırken bir hata oluştu: " + err.message);
     return Voice.destroy();
 });
